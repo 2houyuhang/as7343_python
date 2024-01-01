@@ -1,6 +1,6 @@
 # AS7343 Spectrum Sensor Python Library
 
-![AS7343 Spectrum Sensor]()
+![AS7343 Spectrum Sensor](https://github.com/719084/as7343_python/blob/main/GYAS7341_7343.jpg)
 
 A Python library for interfacing with the AS7343 Spectrum Sensor. This library provides an easy-to-use interface to communicate with the sensor, read spectral data, and perform various operations.
 
@@ -30,7 +30,7 @@ keys, values, sorted_dict = sensor.data_process()
 # Perform other operations...
 ```
 ## Documentation
-Check out the datasheet [here]() for detailed information.
+Check out the datasheet [here](https://github.com/719084/as7343_python/blob/main/AS7343_DS001046_4_00.pdf) for detailed information.
 
 ## Contributing
 Contributions are welcome! Fork the repository, create your feature branch, commit your changes, and submit a pull request.
