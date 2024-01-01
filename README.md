@@ -1,5 +1,4 @@
 # AS7343 Spectrum Sensor Python Library
-
 [中文](https://github.com/719084/as7343_python/blob/main/README.zh_CN.md)
 
 ![AS7343 Spectrum Sensor](https://github.com/719084/as7343_python/blob/main/GYAS7341_7343.jpg)
